@@ -281,47 +281,6 @@ This project demonstrates practical skills in:
 
 ---
 
-# 🚀 How to Run the Project
-
-### Requirements
-
-Install:
-
-* Microsoft Power BI Desktop
-
-### Steps
-
-1. Clone or download this repository.
-
-2. Open:
-
-```text
-Customer_Support_Analytics.pbix
-```
-
-3. If Power BI asks for the dataset location, update the data source path.
-
-4. Refresh the dataset.
-
-5. Navigate through the dashboard pages.
-
-6. Use the available slicers and filters to interact with the dashboard.
-
----
-
-#  Dashboard Screenshots
-
-## Customer Support Overview
-
-![Dashboard 1](screenshots/dashboard1_overview.png)
-
-## Issue Type Analysis
-
-![Dashboard 2](screenshots/dashboard2_issue_analysis.png)
-
-## Agent Performance Analysis
-
-![Dashboard 3](screenshots/dashboard3_agent_performance.png)
 
 #  Author
 
