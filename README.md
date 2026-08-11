@@ -53,17 +53,13 @@ The internship provided practical exposure to Python, SQL, Power BI, Tableau, da
 ```text
 Customer-Support-Analytics-Dashboard/
 │
-├── Customer_Support_Analytics.pbix
+├── Customer Support Analytics.pbix
+├── README.md
 │
-├── screenshots/
-│   ├── dashboard1_overview.png
-│   ├── dashboard2_issue_analysis.png
-│   └── dashboard3_agent_performance.png
-│
-├── dataset/
-│   └── customer_support_dataset.csv
-│
-└── README.md
+└── screenshots/
+    ├── dashboard1_overview.jpg
+    ├── dashboard2_issue_analysis.jpg
+    └── dashboard3_agent_performance.jpg
 ```
 
 > **Note:** The dataset should only be uploaded if you have permission to redistribute it.
