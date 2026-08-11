@@ -91,11 +91,6 @@ The first dashboard provides a high-level overview of customer support operation
 * Ticket Status Distribution
 * Region-based filtering
 
-### Dashboard Preview
-
-![Customer Support Overview](screenshots/dashboard1_overview.png)
-
-The analysis showed that medium-priority tickets represented a comparatively larger portion of the workload. Calls and social media generated a larger number of support requests compared with other communication channels.
 
 ---
 
@@ -116,11 +111,7 @@ The second dashboard focuses on customer issue distribution, escalation patterns
 * Priority
 * Status
 
-### Dashboard Preview
 
-![Issue Type Analysis](screenshots/dashboard2_issue_analysis.png)
-
-This dashboard helps identify frequently reported customer issues, issue categories with higher escalation rates, regional workload distribution, and ticket resolution patterns.
 
 ---
 
@@ -148,11 +139,6 @@ The third dashboard evaluates support agent performance and operational efficien
 * Priority
 * Region
 
-### Dashboard Preview
-
-![Agent Performance Analysis](screenshots/dashboard3_agent_performance.png)
-
-The dashboard helps compare agent workload, customer satisfaction, resolution efficiency, and service quality. It can also help identify high-performing agents and operational bottlenecks.
 
 ---
 
